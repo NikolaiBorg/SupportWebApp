@@ -79,7 +79,3 @@ Færdigt:
 - Oversigt over supporthenvendelser
 - Navigation mellem siderne
 - Oprydning af standard Counter- og Weather-sider
-
-## Næste skridt
-
-Løsningen kan videreudvikles med funktioner som redigering og sletning af supporthenvendelser.
