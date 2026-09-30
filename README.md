@@ -32,7 +32,7 @@ Løsningen bruger:
 
 En tilsvarende Cosmos DB kan oprettes med Azure CLI:
 
-```bash
+bash
 az provider register --namespace Microsoft.DocumentDB
 
 az group create \
@@ -55,7 +55,7 @@ az cosmosdb sql container create \
   --database-name IBasSupportDB \
   --name ibassupport \
   --partition-key-path "/category"
-```
+
 
 ## Konfiguration
 
@@ -78,4 +78,4 @@ Færdigt:
 - Validering af formular
 - Oversigt over supporthenvendelser
 - Navigation mellem siderne
-- Oprydning af standard Counter- og Weather-sider
+- Oprydning af standard Counter og Weather sider
